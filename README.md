@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MystiBerry
 - 👀 I’m interested in tech docs, film noir, and crime fiction
-- 🌱 I lead the doc effort at mParticle
+- 🌱 I recently lead the doc effort at mParticle
 - 📫 How to reach me: mystiberry@gmail.com
 
 <!---
